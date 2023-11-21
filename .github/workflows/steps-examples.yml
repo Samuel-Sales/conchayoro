@@ -5,7 +5,7 @@ on:
     branches: [ "main" ]
     
 jobs:
-  build:
+  jobx:
     runs-on: ubuntu-latest
     steps:
       - name: Setup Node.js environment
